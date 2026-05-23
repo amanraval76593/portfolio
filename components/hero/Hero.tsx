@@ -41,7 +41,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="https://drive.google.com/file/d/1zzKnBSJF7zMDNy41mai0WKaPpX3rpuxe/view?usp=sharing"
+              href="https://drive.google.com/file/d/1tQOMk32qIEZ8O1y_WmkfA_WVPimdwcq8/view?usp=sharing"
               target="_blank"
               className="p-3 rounded-xl border border-white/10 hover:bg-white hover:text-black transition-all"
             >
@@ -55,7 +55,7 @@ export default function Hero() {
 
             <div className="mb-8">
               <p className="text-xs uppercase tracking-[0.2em] text-zinc-500 mb-4">
-                Core Stack
+                Backend Stack
               </p>
 
               <div className="flex flex-wrap gap-3">
@@ -87,8 +87,8 @@ export default function Hero() {
                 { [
                   "Distributed Systems",
                   "Event-Driven Architecture",
-                  "Scalable APIs",
-                  "Low Latency Services",
+                  "Concurrency & Async Processing",
+                  "Performance Optimization",
                 ].map((item) => (
                   <div
                     key={ item }
@@ -111,10 +111,10 @@ export default function Hero() {
 
               <div className="flex flex-wrap gap-3">
                 { [
-                  "Microservices",
-                  "Concurrency",
-                  "System Design",
-                  "Caching",
+                  "High-Performance Backends",
+                  "Distributed Caching",
+                  "Message Queues",
+                  "Database Internals",
                 ].map((item) => (
                   <span
                     key={ item }

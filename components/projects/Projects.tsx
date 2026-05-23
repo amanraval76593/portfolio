@@ -7,9 +7,9 @@ const projects = [
       "Distributed location-based social platform featuring proximity-aware feed ranking, Kafka-powered real-time ingestion pipelines, and Elasticsearch-backed search optimized for low-latency geo-spatial querying.",
 
     metrics: [
-      "10K+ posts supported",
-      "Sub-200ms feed latency",
-      "Real-time Kafka pipelines",
+      "Geo-Spatial Feed Engine",
+      "Kafka Streaming Pipelines",
+      "Sub-200ms Query Latency",
     ],
 
     stack: [
@@ -30,9 +30,9 @@ const projects = [
       "Event-driven notification infrastructure using Redis and BullMQ with distributed workers, retry orchestration, and scalable multi-channel delivery pipelines for asynchronous task execution.",
 
     metrics: [
-      "5K+ jobs/day",
-      "Distributed worker queues",
-      "Retry & failure handling",
+      "Event-Driven Architecture",
+      "Distributed Queue Workers",
+      "Fault-Tolerant Processing",
     ],
 
     stack: [
@@ -51,9 +51,9 @@ const projects = [
       "Centralized healthcare records platform supporting secure multi-role access, Redis-backed authentication workflows, and scalable REST APIs for patients, doctors, and hospitals.",
 
     metrics: [
-      "Multi-role authentication",
-      "1K+ medical records",
-      "JWT + RBAC security",
+      "Role-Based Access Control",
+      "Centralized Medical Records",
+      "Secure JWT Authentication",
     ],
 
     stack: [
@@ -72,9 +72,9 @@ const projects = [
       "Geo-spatial marketplace backend implementing radius-based product discovery, hybrid database architecture, and transaction-safe order processing under concurrent workloads.",
 
     metrics: [
-      "5K+ active listings",
-      "300ms query response",
-      "Geo-spatial filtering",
+      "Geo-Spatial Product Discovery",
+      "Hybrid Database Architecture",
+      "Secure Transaction Processing",
     ],
 
     stack: [
