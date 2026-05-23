@@ -66,7 +66,7 @@ export default function Contact() {
 
             {/* LinkedIn */ }
             <a
-              href="https://linkedin.com/"
+              href="https://www.linkedin.com/in/aman-kumar-bb1126291/"
               target="_blank"
               className="group border border-white/10 rounded-2xl p-6 hover:border-blue-500/30 transition-all duration-300"
             >
@@ -94,7 +94,7 @@ export default function Contact() {
 
             {/* GitHub */ }
             <a
-              href="https://github.com/"
+              href="https://github.com/amanraval76593"
               target="_blank"
               className="group border border-white/10 rounded-2xl p-6 hover:border-blue-500/30 transition-all duration-300"
             >

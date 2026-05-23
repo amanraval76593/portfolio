@@ -21,7 +21,7 @@ const projects = [
       "Elasticsearch",
     ],
 
-    github: "#",
+    github: "https://github.com/amanraval76593/Locallyn-BE",
   },
 
   {
@@ -42,7 +42,7 @@ const projects = [
       "BullMQ",
     ],
 
-    github: "#",
+    github: "https://github.com/amanraval76593/NotifyService",
   },
 
   {
@@ -63,7 +63,7 @@ const projects = [
       "REST APIs",
     ],
 
-    github: "#",
+    github: "https://github.com/amanraval76593/MedSync",
   },
 
   {
@@ -85,7 +85,7 @@ const projects = [
       "Redis",
     ],
 
-    github: "#",
+    github: "https://github.com/amanraval76593/LoMark-BE",
   },
 ];
 
