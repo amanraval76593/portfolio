@@ -23,7 +23,7 @@ export default function Experience() {
 
               <div>
                 <h3 className="text-2xl font-semibold">
-                  Sustainability Economics
+                  Sustainability Economics.ai
                 </h3>
 
                 <div className="flex items-center gap-3 mt-2 flex-wrap">

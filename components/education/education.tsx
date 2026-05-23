@@ -15,8 +15,8 @@ export default function Education() {
                     <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-3">
 
                         <div>
-                            <h3 className="text-2xl font-semibold">
-                                IIITDM Chennai
+                            <h3 className="text-xl font-semibold">
+                                Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram
                             </h3>
 
                             <p className="text-blue-500 mt-2">
